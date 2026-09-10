@@ -1,2 +1,6 @@
 # na-plt-deploys-profile-manager-webapp
-platform-engineering / critical / na
+
+Team: **platform-engineering**  
+Tier: **critical**  
+Region: **na**  
+Synthetic demo repo for the Domo governance platform.
